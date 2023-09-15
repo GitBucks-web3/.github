@@ -5,4 +5,4 @@
 <hr>
 
 <h1>GitBucks</h1>
-We are building GitBucks, A community to earn Gitbucks for contributing to OSS!, Powered by **Solana**. We are proud  to be part of the work of millions of developers making contributions to Open Source!
+We are building GitBucks, A community to earn Gitbucks for contributing to OSS!, Powered by <b>Solana</b>. We are proud  to be part of the work of millions of developers making contributions to Open Source!

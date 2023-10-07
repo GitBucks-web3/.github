@@ -11,10 +11,10 @@ We are building GitBucks, A community to earn Gitbucks for contributing to OSS!,
 
 Meet our team:
 
-| Project           |                                                              | 𝕏:                                                           |
+| Name              |                                                              | 𝕏:                                                           |
 | ----------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **Toshita**       | Co-founder & Strategy                                        | [Check On 𝕏](https://twitter.com/toshitapandey)              |
 | **Sanketh**       | Co-founder & Dev                                             | [Check On 𝕏](https://twitter.com/sankethchebbi)              |
 | **Suhas**         | Co-founder & Fromted-end Dev                                 | [Check On 𝕏](https://twitter.com/suhasasumukh)               |
-| **Chinmay P**     | Co-founder & Design Head                                     | [Check On 𝕏](https://twitter.com/chinmay_x)                  |
+| **Chinmay**       | Co-founder & Design Head                                     | [Check On 𝕏](https://twitter.com/chinmay_x)                  |
 | **Saksham**       | Co-founder & Blockchain Dev                                  | [Check On 𝕏](https://twitter.com/RxW_777)                    |

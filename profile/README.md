@@ -18,3 +18,4 @@ Meet our team:
 | **Suhas**         | Co-founder & Fromted-end Dev                                 | [Check On 𝕏](https://twitter.com/suhasasumukh)               |
 | **Chinmay**       | Co-founder & Design Head                                     | [Check On 𝕏](https://twitter.com/chinmay_x)                  |
 | **Saksham**       | Co-founder & Blockchain Dev                                  | [Check On 𝕏](https://twitter.com/RxW_777)                    |
+| **Keshav**        | Founding Team & Content Core                                 | [Check On 𝕏](https://twitter.com/K3shavGupta)                |
